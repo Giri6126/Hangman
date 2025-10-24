@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
-#HK
+
 # ---------------- Word Categories & Hints ----------------
 categories = {
     "fruits": ["apple", "banana", "mango", "orange"],
