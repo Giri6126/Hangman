@@ -40,7 +40,7 @@ This project was a great way to combine simple Python programming with AI-style 
 🚀 How to Run It
 
 Clone this repo:
-git clone https://github.com/yourusername/hangman-ai-game.git
+git clone https://github.com/Giri6126/hangman.git
 
 
 Move into the folder:
