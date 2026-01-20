@@ -1,6 +1,6 @@
 Hangman AI Game 
 
-Hey there 👋
+Hey there 
 This is my take on the classic Hangman game, but with a small twist — it’s powered by a bit of AI-style logic.
 It’s simple, fun, and built entirely in Python.
 
