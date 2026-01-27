@@ -19,7 +19,7 @@ Simple, text-based interface
 Easy to understand, edit, and extend
 Demonstrates basic rule-based decision-making
 
-⚙️ How It Works
+ How It Works
 
 The program chooses a secret word.
 You start guessing letters.
