@@ -11,7 +11,7 @@ If you get a letter right, it shows up in the word. If not… well, you lose a l
 Pretty straightforward — but that’s what makes it fun.
 I built this to show how AI reasoning (even at a basic level) can make games interactive and a little smarter.
 
- Features
+Features
 
 Random word selection each time you play
 Tracks correct and wrong guesses
