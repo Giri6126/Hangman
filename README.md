@@ -4,7 +4,7 @@ Hey there
 This is my take on the classic Hangman game, but with a small twist — it’s powered by a bit of AI-style logic.
 It’s simple, fun, and built entirely in Python.
 
-🧠 What It Does?
+What It Does?
 
 The computer picks a random word, and your job is to guess it one letter at a time.
 If you get a letter right, it shows up in the word. If not… well, you lose a life.
